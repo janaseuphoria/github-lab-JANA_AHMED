@@ -1,2 +1,3 @@
 hi
 Remote edit created from GitHub.
+Contributors should work through feature branches.
