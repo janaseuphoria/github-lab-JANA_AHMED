@@ -1,3 +1,9 @@
 hi
 Remote edit created from GitHub.
 Contributors should work through feature branches.
+
+BRANCH WORKFLOW
+1. Update main.
+2. Create a feature branch.
+3. Commit focused changes.
+4. Open a Pull Request.
